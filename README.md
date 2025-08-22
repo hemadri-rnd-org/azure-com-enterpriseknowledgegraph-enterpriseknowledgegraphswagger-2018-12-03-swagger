@@ -1,0 +1,2 @@
+# azure-com-enterpriseknowledgegraph-enterpriseknowledgegraphswagger-2018-12-03-swagger
+OpenAPI specification for azure.com API vEnterpriseKnowledgeGraph-EnterpriseKnowledgeGraphSwagger
